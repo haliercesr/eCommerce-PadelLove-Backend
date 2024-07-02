@@ -1,0 +1,29 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del editor
+.idea/
+*.iml
+*.swp
+.vscode/
+*.code-workspace
+
+# Archivos de compilación
+*.class
+*.war
+*.ear
+
+# Directorios de compilación
+target/
+out/
+build/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Dependencias descargadas
+node_modules/
+vendor/
+.env
